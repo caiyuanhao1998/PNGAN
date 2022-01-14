@@ -1,8 +1,7 @@
 # PNGAN
 This is the project page of 《Learning to Generate Realistic Noisy Images via Pixel-level Noise-aware Adversarial Training》, which is accepted by NeurIPS 2021.
-
-[paper](https://proceedings.neurips.cc/paper/2021/file/1a5b1e4daae265b790965a275b53ae50-Paper.pdf)
-[sup](https://proceedings.neurips.cc/paper/2021/file/1a5b1e4daae265b790965a275b53ae50-Supplemental.pdf)
+[[paper]](https://proceedings.neurips.cc/paper/2021/file/1a5b1e4daae265b790965a275b53ae50-Paper.pdf)
+[[supplementary]](https://proceedings.neurips.cc/paper/2021/file/1a5b1e4daae265b790965a275b53ae50-Supplemental.pdf)
 
  ![Illustration of PNGAN](/figure/PNGAN.png)
 
