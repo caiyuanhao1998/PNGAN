@@ -83,7 +83,7 @@ the generated noisy images are in `./results/SIDD/noise_modeling/`
 
 the Gaussian noisy images are in `./results/SIDD/Gaussian_noise/`
 
-And you can find the clean image counterparts in `./datasets/SIDD/groundtruth/`, feel free to use your method to generate noisy images from the clean counterparts and make a convinient comparisons with our PNGAN. 
+And you can find the clean image counterparts in `./datasets/SIDD/groundtruth/`, feel free to use your method to generate noisy images from the clean counterparts and make a convenient comparisons with our PNGAN. 
 
 If you want to compare Gaussian noisy images at other level (*e.g.,* X30, X70), run the matlab script:
 
