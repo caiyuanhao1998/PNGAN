@@ -3,6 +3,10 @@
 [![paper](https://img.shields.io/badge/NeurIPS-paper-179bd3)](https://proceedings.neurips.cc/paper/2021/file/1a5b1e4daae265b790965a275b53ae50-Paper.pdf)
 [![supp](https://img.shields.io/badge/NeurIPS-supplementary_matrial-179bd3)](https://proceedings.neurips.cc/paper/2021/file/1a5b1e4daae265b790965a275b53ae50-Supplemental.pdf)
 
+|                       Gaussian Noise                          |                        PNGAN Noise                        |
+| :-----------------------------------------------------------: | :-------------------------------------------------------: |
+| <img src="./figure/clean2gaussian.gif"  height=350 width=350> | <img src="./figure/clean2PNGAN.gif" width=350 height=350> |
+
 
 #### News
 - **2022.04.17 :** Testing codes, pre-trained models, and results have been released. :rocket: 
