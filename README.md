@@ -5,7 +5,7 @@
 
 |                       Gaussian Noise                          |                        PNGAN Noise                        |
 | :-----------------------------------------------------------: | :-------------------------------------------------------: |
-| <img src="./figure/clean2gaussian.gif"  height=360 width=360> | <img src="./figure/clean2PNGAN.gif" width=360 height=360> |
+| <img src="./figure/clean2gaussian.gif"  height=370 width=370> | <img src="./figure/clean2PNGAN.gif" width=370 height=370> |
 
 
 #### News
