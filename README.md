@@ -50,7 +50,7 @@ conda env create -f PNGAN.yaml
 ```
 
 ## Noise Removal
-Download our pre-trained models ([Google Drive](https://drive.google.com/drive/folders/1ykkqUB7jA0flsoWWC1Um8YBjy5_OnZqN?usp=sharing) | [Baidu Disk](https://pan.baidu.com/s/108K8VAPVEULaRMo-ZCxbNQ), code: 65m5) and place them into folder 'pre-trained'
+Download our pre-trained models ([Google Drive](https://drive.google.com/drive/folders/1ykkqUB7jA0flsoWWC1Um8YBjy5_OnZqN?usp=sharing) | [Baidu Disk](https://pan.baidu.com/s/108K8VAPVEULaRMo-ZCxbNQ), code: `65m5`) and place them into folder 'pre-trained'
 following these instructions
 
 ```shell
