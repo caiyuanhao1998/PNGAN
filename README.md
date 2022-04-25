@@ -64,7 +64,7 @@ python test_denoiser.py --method mirnet --input_dir ./datasets/PolyU/ --result_d
 python test_denoiser.py --method ridnet --input_dir ./datasets/Nam/ --result_dir ./results/Nam/noise_removal/ --weights ./pre-trained/RIDNet_nam.pth
 ```
 
-For DND denoising, we provide the denoised results on [DND](https://noise.visinf.tu-darmstadt.de/) in folder `./results/DND/noise_removal/`. The file is named in terms of 'id_PSNR_SSIM.png'. Our method ranks the 4th place on the public [leaderboard](https://noise.visinf.tu-darmstadt.de/benchmark/#results_srgb). We have also provided denoised results on SIDD, PolyU, and Nam.
+For DND denoising, we provide the denoised results on [DND](https://noise.visinf.tu-darmstadt.de/) in folder `./results/DND/noise_removal/`. The file is named in terms of `id_PSNR_SSIM.png`. Our method ranks the 4th place on the public [leaderboard](https://noise.visinf.tu-darmstadt.de/benchmark/#results_srgb). We have also provided denoised results on SIDD, PolyU, and Nam.
 
 for instance, on PolyU
 
