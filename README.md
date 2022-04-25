@@ -39,7 +39,7 @@ For installing, follow these intructions
 sudo apt-get install cmake build-essential libjpeg-dev libpng-dev
 conda create -n pytorch1 python=3.7
 conda activate pytorch1
-conda install pytorch=1.7 torchvision=0.3 cudatoolkit=9.0 -c pytorch
+conda install pytorch=1.7 torchvision=0.8.0 cudatoolkit=9.0 -c pytorch
 pip install matplotlib scikit-image opencv-python yacs joblib natsort h5py tqdm
 ```
 
