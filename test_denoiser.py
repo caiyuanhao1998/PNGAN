@@ -11,7 +11,6 @@ import torch.nn.functional as F
 import scipy.io as sio
 from networks.MIRNet_model import MIRNet
 from networks.MPRNet import MPRNet
-from networks.SIMNet import SIMNet
 from networks.RIDNet.ridnet import RIDNET
 
 from dataloaders.data_rgb import get_validation_data_real
