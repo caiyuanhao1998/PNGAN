@@ -28,12 +28,12 @@
 <br>
 <br>
 
-<p align="center">
+<table align="center">
 |   Methods  |   [CBDNet](https://arxiv.org/abs/1807.04686)   |    [ULRD](https://arxiv.org/abs/1811.11127)    |    [GRDN](https://arxiv.org/abs/1905.11172)    |   [DANet](https://arxiv.org/abs/2007.05946)   |   PNGAN   |
 | :------------: | :------------: | :------------: | :------------: | :-----------: | :-----------: |
 |      PGap      |      8.30      |      4.90      |      2.28      |      2.06     |      0.84     |
 |      AKLD      |     0.728      |     0.545      |     0.443      |     0.212     |     0.153     |
-</p>
+</table>
 
 <br>
 <br>
