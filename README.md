@@ -26,7 +26,7 @@
 *Noise Generation*: We adopt the two metrics used in [DANet](https://arxiv.org/abs/2007.05946) to measuere the performance of our generated noise, *i.e.*, PSNR Gap (PGap) and Average KL Divergence (AKLD). The results are shown in the following table.
 
 
-|   Method   |   CBDNet   |    ULRD    |    GRDN    |   DANet   |   PNGAN   |
+|   Methods  |   [CBDNet](https://arxiv.org/abs/1807.04686)   |    [ULRD](https://arxiv.org/abs/1811.11127)    |    [GRDN](https://arxiv.org/abs/1905.11172)    |   [DANet](https://arxiv.org/abs/2007.05946)   |   PNGAN   |
 | :--------: | :--------: | :--------: | :--------: | :-------: | :-------: |
 |    PGap    |    8.30    |    4.90    |    2.28    |    2.06   |    0.84   |
 |    AKLD    |   0.728    |   0.545    |   0.443    |   0.212   |   0.153   |
