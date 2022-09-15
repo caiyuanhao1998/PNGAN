@@ -86,6 +86,8 @@ for instance, on PolyU
 
 the denoised results are in `./results/PolyU/noise_removal/`
 
+You can also refer to [this repo](https://github.com/GarrickZ2/Image-Denoising) for the application of PNGAN on Reformer.
+
 
 ![denoise_compare](/figure/noise_removal.png)
 
@@ -106,6 +108,8 @@ If you want to compare Gaussian noisy images at other level (*e.g.,* X30, X70), 
 ```shell
 run('Generate_TrainData_HQ_LQ_Denoising_RGB.m')
 ```
+
+You can also refer to [this repo](https://github.com/GarrickZ2/Image-Denoising) for the application of PNGAN on Reformer.
 
 ![noise compare of PNGAN](/figure/noisy.png)
 
@@ -128,3 +132,9 @@ run('Generate_TrainData_HQ_LQ_Denoising_RGB.m')
   year={2021}
 }
 ```
+
+# Acknowledgement
+
+The authors want to thank the following repo for their application of PNGAN on Reformer.
+
+https://github.com/GarrickZ2/Image-Denoising
