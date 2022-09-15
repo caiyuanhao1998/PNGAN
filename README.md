@@ -112,9 +112,12 @@ run('Generate_TrainData_HQ_LQ_Denoising_RGB.m')
 
 # Citation
 ```
-@inproceedings{cai2021learning, 
-title={Learning to Generate Realistic Noisy Images via Pixel-level Noise-aware Adversarial Training}, 
-author={Cai, Yuanhao and Hu, Xiaowan and Wang, Haoqian and Zhang, Yulun and Pfister, Hanspeter and Wei, Donglai}, 
-booktitle={Thirty-Fifth Conference on Neural Information Processing Systems}, 
-year={2021}}
+@article{cai2021learning,
+  title={Learning to generate realistic noisy images via pixel-level noise-aware adversarial training},
+  author={Cai, Yuanhao and Hu, Xiaowan and Wang, Haoqian and Zhang, Yulun and Pfister, Hanspeter and Wei, Donglai},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={3259--3270},
+  year={2021}
+}
 ```
