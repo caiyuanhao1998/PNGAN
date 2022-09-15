@@ -120,4 +120,11 @@ run('Generate_TrainData_HQ_LQ_Denoising_RGB.m')
   pages={3259--3270},
   year={2021}
 }
+
+@inproceedings{pngan, 
+  title={Learning to Generate Realistic Noisy Images via Pixel-level Noise-aware Adversarial Training}, 
+  author={Cai, Yuanhao and Hu, Xiaowan and Wang, Haoqian and Zhang, Yulun and Pfister, Hanspeter and Wei, Donglai}, 
+  booktitle={NeurIPS}, 
+  year={2021}
+}
 ```
