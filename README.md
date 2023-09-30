@@ -1,3 +1,10 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-to-generate-realistic-noisy-images-2/noise-estimation-on-sidd)](https://paperswithcode.com/sota/noise-estimation-on-sidd?p=learning-to-generate-realistic-noisy-images-2)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-to-generate-realistic-noisy-images-2/image-denoising-on-polyu-dataset)](https://paperswithcode.com/sota/image-denoising-on-polyu-dataset?p=learning-to-generate-realistic-noisy-images-2)
+
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-to-generate-realistic-noisy-images-2/image-denoising-on-nam)](https://paperswithcode.com/sota/image-denoising-on-nam?p=learning-to-generate-realistic-noisy-images-2)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-to-generate-realistic-noisy-images-2/image-denoising-on-sidd)](https://paperswithcode.com/sota/image-denoising-on-sidd?p=learning-to-generate-realistic-noisy-images-2)
+
+
 # Learning to Generate Realistic Noisy Images via Pixel-level Noise-aware Adversarial Training (NeurIPS 2021)
 [![lb](https://img.shields.io/badge/DND-leaderboard-179bd3)](https://noise.visinf.tu-darmstadt.de/benchmark/#results_srgb)
 [![paper](https://img.shields.io/badge/NeurIPS-paper-179bd3)](https://proceedings.neurips.cc/paper/2021/file/1a5b1e4daae265b790965a275b53ae50-Paper.pdf)
