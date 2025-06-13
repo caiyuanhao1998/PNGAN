@@ -1,3 +1,5 @@
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-to-generate-realistic-noisy-images-2/image-denoising-on-dnd)](https://paperswithcode.com/sota/image-denoising-on-dnd?p=learning-to-generate-realistic-noisy-images-2)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-to-generate-realistic-noisy-images-2/image-denoising-on-nam)](https://paperswithcode.com/sota/image-denoising-on-nam?p=learning-to-generate-realistic-noisy-images-2)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-to-generate-realistic-noisy-images-2/image-denoising-on-polyu-dataset)](https://paperswithcode.com/sota/image-denoising-on-polyu-dataset?p=learning-to-generate-realistic-noisy-images-2)
 
